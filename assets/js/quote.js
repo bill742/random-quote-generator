@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var quoteApi = "http://quotesondesign.com/wp-json/posts?filter[orderby]=rand&filter[posts_per_page]=1&callback=";
+  var quoteApi = "https://quotesondesign.com/wp-json/posts?filter[orderby]=rand&filter[posts_per_page]=1&callback=";
 
   // Generate quote content & layout
   function getQuote(){
