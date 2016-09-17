@@ -1,14 +1,14 @@
 {
-  "name": "fcc-quote",
+  "name": "random-quote-generator",
   "version": "1.0.0",
-  "description": "An app that generates random quotes. Part of the FreeCodeCamp curriculum.",
-  "main": "gulpfile.js",
+  "description": "An app that generates random inspirational quotes about design.",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "github.com/bill742/??"
+    "url": "https://github.com/bill742/random-quote-generator"
   },
   "author": "Bill Dean",
   "license": "ISC",
